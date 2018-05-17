@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="omika1.mylabserver.com" name="RectangleTest" skipped="0" tests="1" time="0.0" timestamp="2018-05-17T06:10:58">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.LESSOPEN" value="||/usr/bin/lesspipe.sh %s" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env._system_arch" value="x86_64" />
+    <property name="env.GEM_HOME" value="/usr/local/rvm/gems/ruby-2.4.1" />
+    <property name="os.name" value="Linux" />
+    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-7.b10.el7.x86_64/jre/lib/resources.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-7.b10.el7.x86_64/jre/lib/rt.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-7.b10.el7.x86_64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-7.b10.el7.x86_64/jre/lib/jsse.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-7.b10.el7.x86_64/jre/lib/jce.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-7.b10.el7.x86_64/jre/lib/charsets.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-7.b10.el7.x86_64/jre/lib/jfr.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-7.b10.el7.x86_64/jre/classes" />
+    <property name="env.PWD" value="/root/git_repos/java-project" />
+    <property name="env.LANG" value="en_US.UTF-8" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="/opt/ant" />
+    <property name="java.runtime.version" value="1.8.0_171-b10" />
+    <property name="env.MY_RUBY_HOME" value="/usr/local/rvm/rubies/ruby-2.4.1" />
+    <property name="env.HISTSIZE" value="100000" />
+    <property name="env.rvm_version" value="1.29.3 (latest)" />
+    <property name="user.name" value="root" />
+    <property name="env.USER" value="root" />
+    <property name="env.HISTCONTROL" value="ignoredups" />
+    <property name="env.SHELL" value="/bin/bash" />
+    <property name="build.dir" value="/root/git_repos/java-project/bin" />
+    <property name="env._system_type" value="Linux" />
+    <property name="env.PATH" value="/usr/local/rvm/gems/ruby-2.4.1/bin:/usr/local/rvm/gems/ruby-2.4.1@global/bin:/usr/local/rvm/rubies/ruby-2.4.1/bin:/usr/local/src/apache-maven/bin:/opt/ant/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/rvm/bin:/root/bin" />
+    <property name="user.language" value="en" />
+    <property name="env.rvm_prefix" value="/usr/local" />
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-7.b10.el7.x86_64/jre/lib/amd64" />
+    <property name="ant.project.default-target" value="main" />
+    <property name="ant.project.name" value="Rectangle-Test" />
+    <property name="env.rvm_path" value="/usr/local/rvm" />
+    <property name="env.RUBY_VERSION" value="ruby-2.4.1" />
+    <property name="java.version" value="1.8.0_171" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="env._system_name" value="CentOS" />
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-7.b10.el7.x86_64/jre/lib/endorsed" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="env.rvm_bin_path" value="/usr/local/rvm/bin" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="env.SHLVL" value="1" />
+    <property name="env.HOSTNAME" value="omika1.mylabserver.com" />
+    <property name="file.separator" value="/" />
+    <property name="env._system_version" value="7" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-7.b10.el7.x86_64/jre" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.LOGNAME" value="root" />
+    <property name="ant.file" value="/root/git_repos/java-project/test.xml" />
+    <property name="os.version" value="3.10.0-862.2.3.el7.x86_64" />
+    <property name="ant.file.Rectangle-Test" value="/root/git_repos/java-project/test.xml" />
+    <property name="path.separator" value=":" />
+    <property name="java.vm.version" value="25.171-b10" />
+    <property name="ant.file.type.Rectangle-Test" value="file" />
+    <property name="report.dir" value="/root/git_repos/java-project/reports" />
+    <property name="ant.library.dir" value="/opt/ant/lib" />
+    <property name="env.IRBRC" value="/usr/local/rvm/rubies/ruby-2.4.1/.irbrc" />
+    <property name="env.JAVA_HOME" value="/usr/lib/jvm/jre-1.8.0-openjdk" />
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob" />
+    <property name="env.TERM" value="xterm" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit" />
+    <property name="env.GEM_PATH" value="/usr/local/rvm/gems/ruby-2.4.1:/usr/local/rvm/gems/ruby-2.4.1@global" />
+    <property name="user.home" value="/root" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.CLASSPATH" value="." />
+    <property name="env.M2_HOME" value="/usr/local/src/apache-maven" />
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.3 compiled on March 24 2018" />
+    <property name="java.class.path" value="/root/git_repos/java-project/lib/junit-4.10.jar:/root/git_repos/java-project/bin:/root/git_repos/java-project:/opt/ant/lib/ant-launcher.jar:/opt/ant/lib/ant.jar:/opt/ant/lib/ant-junit.jar:/opt/ant/lib/ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner RectangleTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/root/git_repos/java-project/reports/result.xml crashfile=/root/git_repos/java-project/junitvmwatcher4528266704937999274.properties propsfile=/root/git_repos/java-project/junit6307847682782546822.properties" />
+    <property name="env.XDG_SESSION_ID" value="6" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="env.HOME" value="/root" />
+    <property name="env.ANT_HOME" value="/opt/ant" />
+    <property name="java.io.tmpdir" value="/tmp" />
+    <property name="env.LS_COLORS" value="rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-7.b10.el7.x86_64/jre/lib/ext:/usr/java/packages/lib/ext" />
+    <property name="user.dir" value="/root/git_repos/java-project" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+    <property name="env.JRE_HOME" value="/usr/lib/jvm/jre" />
+    <property name="basedir" value="/root/git_repos/java-project" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="/opt/ant/lib/ant.jar" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="env.MAIL" value="/var/spool/mail/root" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="src.dir" value="/root/git_repos/java-project/src" />
+    <property name="ant.project.invoked-targets" value="main" />
+  </properties>
+  <error message="RectangleTest" type="java.lang.ClassNotFoundException">java.lang.ClassNotFoundException: RectangleTest
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+</error>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
